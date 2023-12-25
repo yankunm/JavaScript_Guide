@@ -458,7 +458,7 @@ const person = {
 ```
 The keyword 'this' here refers to the `Window` object. This could be very useful in functions like `setTimeout`, where you want to refer to the `Window` object.
 
-## Modern JS Syntax (as of 12/2023)
+## Modern JS Syntax (as of 12/25/2023)
 
 ### Default Params
 
